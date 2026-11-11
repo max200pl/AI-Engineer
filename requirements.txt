@@ -1,0 +1,14 @@
+# Core
+numpy
+pandas
+matplotlib
+python-dotenv
+requests
+
+# Notebooks
+jupyterlab
+ipykernel
+
+# LLM SDKs
+anthropic
+ollama
